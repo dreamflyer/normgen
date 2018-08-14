@@ -1,0 +1,13 @@
+setup.py
+normgen/__init__.py
+normgen/callbacks.py
+normgen/image_util.py
+normgen/model.py
+normgen/plot.py
+normgen/report.py
+normgen/train.py
+normgen/utils.py
+normgen.egg-info/PKG-INFO
+normgen.egg-info/SOURCES.txt
+normgen.egg-info/dependency_links.txt
+normgen.egg-info/top_level.txt
