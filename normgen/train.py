@@ -58,6 +58,4 @@ def main(resume):
 
         count = count + 1
 
-main(False)
-
 
